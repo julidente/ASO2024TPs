@@ -1,4 +1,4 @@
-g#include <pthread.h>
+#include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
 #define NUMBER_OF_THREADS 2
